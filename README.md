@@ -1,4 +1,4 @@
-# poo
+# poo-exercicios-js
 Lista de Exercícios — Programação Orientada a Objetos (POO)
 Lista de Exercícios — Programação Orientada a Objetos (POO)
 Tema: Classe, Herança, Encapsulamento e Polimorfismo · Linguagem: JavaScript
