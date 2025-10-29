@@ -53,3 +53,27 @@ Organizados e comentados em arquivos .js individuais.
 Publicados em um repositório público no GitHub.
 O link do repositório deve ser enviado ao professor via AVA.
 💡 Sugestão: Nomeie o repositório como poo-exercicios-js para manter o padrão.
+
+
+
+poo-exercicios-js/
+│
+├── parte1/
+│   ├── Carro.js
+│   └── Produto.js
+│
+├── parte2/
+│   ├── PessoaAluno.js
+│   └── Animal.js
+│
+├── parte3/
+│   ├── ContaBancaria.js
+│   └── Usuario.js
+│
+├── parte4/
+│   ├── Funcionario.js
+│   └── Forma.js
+│
+└── parte5/
+    └── SistemaAlunos.js
+
